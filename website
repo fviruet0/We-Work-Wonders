@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+<title>We Work Wonders</title>
+<meta charset="utf-8" />
+<meta content=We_Work_Wonders name="description" />
+<meta content="We Work Wonders, hair salon, beauty parlor, kids, haircut" name="keywords" />
+<meta content="Felix Viruet" name="author" />
+<meta content="noindex, no follow" name="robots" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+	<link rel="stylesheet" href="default.css" type="text/css" />
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/slide-social-buttons.css">
+	
+	 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+  
+	<script>
+function bigImg(x) {
+    x.style.height = "64px";
+    x.style.width = "64px";
+}
+
+function normalImg(x) {
+    x.style.height = "32px";
+    x.style.width = "32px";
+}
+</script>
+	<!--[if 1t IE 9]>
+			<script src="http://html5shimgooglecode.com/svn/trunk/html5.js">
+			</script>
+	<![endif]-->
+
+</head>
+ <!--Start of Body-->
+<body>
+	 <div id="header">
+		<h1 id="logo"> 
+		
+		<img alt="Company Logo" height="129" src="Logo.png" width="138">
+		<a href="https://cooltext.com"><img src="https://images.cooltext.com/5088481.png" width="1050" height="125" alt="We Work Wonders" /></a>
+				
+		</h1>
+<!--<h6>Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=2732592739">Create Your Own Logo</a> </h6>-->
+<!--Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Makr">LogoMakr.com</a> https://logomakr.com/8ZAeSr-->
+	</div>
+		<!--Start of Navigation-->
+			<div class="topnav">
+			  <a class="active" href="home.html">Home</a>
+			  <a href="about.html">About</a>
+			  <a href="services.html">Services</a>
+			  <a href="contact.html">Contact</a>
+			</div>
+		<!--End of Navigation-->
+		
+ <!--Start of Body-->			
+	<div id="wrapper">
+	
+	<article class="container">
+	
+				<h2 id="mainhead">Our Mission</h2>
+				<div style="">
+				<canvas id="myCanvas" height="430" width="316"></canvas>
+				<script type="text/javascript" src="bubbles.js"></script>
+				<script type="text/javascript" src="index.js"></script>
+				<script type="text/javascript" src="https://external-production.codecademy.com/assets/relay.js"></script>
+				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+				<script type="text/javascript" src="https://external-production.codecademy.com/assets/jquery.expect.js?v1"></script>
+	
+				</div>
+			<section class="content">
+			
+			<h2>How We Make Magic</h2>
+				<p>This website design is for my girls. I have 7 daughters and a 
+				wonderful wife.</p>
+				<p>Now they are at the age where a regular wash is just not 
+				enough so as a joke my wife came up with the name "We Work Wonders."</p>
+				<p>Each one of my daughters has a different hair style, feel and texture and likes their hair in a different hair style.</p>
+				<p>So my wife turned our bathroom into her office where she transforms sometimes a mess to something that looks decent.</p> 
+				<p>Trust me after 11 years now she is pretty good at what she does.</p>
+				<p>So gives us a call if you every need a little help when you are having a bad hair day.</p>
+				<br />
+				<p class="motto">If Your Hairs a Mess, We Do Our Best to Make It Look Decent!!!</p>
+		<div>
+		
+		 
+	
+		
+
+		</div>					
+			<h2>Mission Statement</h2>
+				<p class="mission">Our mission is to provide your hair with makeover. Aren't 
+				you tired of waking up with bed-hair or just after along day running around 
+				town taking care of business and your hair just looks a mess. Well we here 
+				at <i><b>"<em>W</em>e <em>W</em>ork <em>W</em>onders"</b></i> will take on any bad hair style and make it and you look decent.</p>
+			<!--End of Body-->
+			
+		</section>
+		
+	</article>
+	
+	</div>
+	
+<!-- Footer -->
+	<footer id="footer">
+			 <!--<a href="https://cooltext.com"><br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=2515000552">Create Your Own Logo</a>-->
+			<a href="mailto:fviruet0@email.cpcc.edu"> 
+			<img src="https://images.cooltext.com/4980693.png" width="125" height="40" alt="Email Me" /></a>
+			 
+			 &nbsp; &nbsp; 
+			 
+			 <a href="http://validator.w3.org/check?uri=referer">
+			<img src="images/valid_html5-yellow.gif" alt="Valid HTML 5" height="31" width="88" style="border:0px;"></a>
+			
+			&nbsp; &nbsp; 
+			
+			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+			<img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"></a> &nbsp; 
+			
+						 
+			 <p><b><i>Copyright &copy; 2018 Felix Viruet. All Rights Reserved</i></b><br></p>
+						 
+			 </footer>
+  <!-- End footer -->
+
+
+</body>
+
+</html>
